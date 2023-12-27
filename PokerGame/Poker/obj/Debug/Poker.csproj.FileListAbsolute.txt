@@ -1,0 +1,8 @@
+C:\Users\tasos\Downloads\PokerSimulator-master\Poker\bin\Debug\Poker.exe.config
+C:\Users\tasos\Downloads\PokerSimulator-master\Poker\bin\Debug\Poker.exe
+C:\Users\tasos\Downloads\PokerSimulator-master\Poker\bin\Debug\Poker.pdb
+C:\Users\tasos\Downloads\PokerSimulator-master\Poker\obj\Debug\Poker.csproj.AssemblyReference.cache
+C:\Users\tasos\Downloads\PokerSimulator-master\Poker\obj\Debug\Poker.csproj.SuggestedBindingRedirects.cache
+C:\Users\tasos\Downloads\PokerSimulator-master\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+C:\Users\tasos\Downloads\PokerSimulator-master\Poker\obj\Debug\Poker.exe
+C:\Users\tasos\Downloads\PokerSimulator-master\Poker\obj\Debug\Poker.pdb
